@@ -1,0 +1,8 @@
+{
+  "name": "Remix Midad Makkah",
+  "description": "منصة مداد مكة الرقمية التفاعلية – ذاكرة مكان بإنسان لتوثيق التراث الثقافي والهوية التاريخية لمكة المكرمة للأجيال القادمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
